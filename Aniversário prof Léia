@@ -1,0 +1,29 @@
+import time
+def feliz_aniversario(  ):
+    nome="\033[2;32mLéia\033[0m"
+    #print(nome)
+    time.sleep(2)
+    print(f"\n\tParabéns pra você,")
+    time.sleep(2)
+    print("\tnesta \033[2;36mdata\33[0m querida.")
+    time.sleep(2)
+    print("\tMuitas felicidades,")
+    time.sleep(2)
+    print("\tmuitos \033[2;35manos++\033[0m de vida.\n")
+    time.sleep(2)
+    print("\tHoje é dia de \033[2;36mlist\033[0m(a)")
+    time.sleep(2)
+    print("\t\033[2;36mProgramam\033[0m as nossas almas.")
+    time.sleep(2)
+    print(f"\tPara a profa {nome},")
+    time.sleep(2)
+    print("\tuma \033[2;35mtupla\033[0m de palmas!")
+    print("\n\t\033[2;35mtupla\033[0m = \033[0m\033[2;36mtuple\033[0m(👏🏻👏🏻👏🏻, 👏🏻,👏🏻👏🏻,👏🏻👏🏻👏🏻👏🏻)")
+    time.sleep(2)
+    print(f"\t{nome} = \033[2;35mtupla\033[0m\n\n")
+    
+    print(f"\tFeliz Aniversário, {nome}!")
+    print("\t👏🏻👏🏻👏🏻🥳🎁 🎉🎂\n\n")
+    time.sleep(20) 
+    
+feliz_aniversario(  )
